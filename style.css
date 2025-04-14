@@ -14,7 +14,7 @@
     justify-content: center;
 }
 .calculator{
-    background-color: #304452;
+    background: linear-gradient(45deg, #2a373d, #003a1d );
     padding: 20px;
     border-radius: 10px;
 }
@@ -23,8 +23,8 @@
     outline: 0;
     width: 60px;
     height: 60px;
-    border-radius: 10px;
-    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2) ;
+    border-radius: 5px;
+    box-shadow: -8px -8px 15px rgba(0, 0, 0, 0.822), 5px 5px 15px rgba(0, 0, 0, 0.2) ;
     background: transparent;
     font-size: 20px;
     color: #fff;
